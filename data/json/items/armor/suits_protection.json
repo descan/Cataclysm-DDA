@@ -2690,7 +2690,7 @@
     "warmth": 15,
     "material_thickness": 0.5,
     "environmental_protection": 3,
-    "flags": [ "OVERSIZE", "VARSIZE", "POCKETS", "RAINPROOF", "STURDY" ]
+    "flags": [ "OVERSIZE", "VARSIZE", "POCKETS", "RAINPROOF", "STURDY", "FANCY" ]
   },
   {
     "id": "mil_flight_suit",
